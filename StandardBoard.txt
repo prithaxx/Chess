@@ -1,0 +1,9 @@
+8 8
+BC BN BB BQ BK BB BN BC
+BP BP BP BP BP BP BP BP
+E  E  E  E  E  E  E  E
+E  E  E  E  E  E  E  E
+E  E  E  E  E  E  E  E
+E  E  E  E  E  E  E  E
+WP WP WP WP WP WP WP WP 
+WC WN WB WQ WK WB WN WC
